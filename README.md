@@ -1,9 +1,8 @@
 # Download Facebook Photos
-This script will download all of your Facebook photos.
-
-I wanted to delete my Facebook profile since I rarely use it anymore. While Facebook allows you to [download a copy of your data](https://www.facebook.com/help/212802592074644), this does not include photos that you are tagged in. Additionally, some of these photos are not high resolution.
-
-So I decided to write this script to download Facebook photos that you're tagged in and that you have uploaded. This script can also download photos of other Facebook users that have public pictures.
+While Facebook allows you to [download a copy of your data](https://www.facebook.com/help/212802592074644), this does not include photos that you are tagged in. 
+Additionally, some of these photos are not high resolution.
+Tony's script that this fork is based on allowed download of Facebook photos that you're tagged in and that you have uploaded. This script can also download photos of other Facebook users that have public pictures.
+This fork handles some differences in the facebook sign in workflow that I encountered.
 
 ## How to Download All Your Photos from Facebook
 
